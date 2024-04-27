@@ -3,7 +3,7 @@
 .NET végpont alapú szerver oldali alkalmazás.
 
 ## Használat:
-A használathoz rendelkezni kell **.NET 6.0 SDK**-el vagy **docker**-rel.
+A használathoz rendelkezni kell **.NET 6.0 SDK**-val vagy **docker**-rel.
 
 A solution fájl megnyitásával **Visual Studio**-ban könnyedén elindítható development módban, ilyenkor a **localhost:5100**-en érhetők el a végpontok.
 
